@@ -11,3 +11,9 @@ My shadcn/ui adjacent component libraries list.
 - https://enhanced-button.vercel.app/
 - https://ui.aceternity.com/
 - https://www.cult-ui.com/
+- https://github.com/sadmann7/shadcn-table
+- https://github.com/vantezzen/autoform
+- https://variantvault.chrisabdo.dev/
+- https://react-confirm-dialog.vercel.app/
+- https://www.uibeats.com/
+- https://animata.design/
